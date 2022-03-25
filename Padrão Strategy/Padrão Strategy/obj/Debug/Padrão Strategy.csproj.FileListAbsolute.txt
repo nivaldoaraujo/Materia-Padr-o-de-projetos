@@ -1,0 +1,6 @@
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\bin\Debug\Padrão Strategy.exe.config
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\obj\Debug\Padrão Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\bin\Debug\Padrão Strategy.exe
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\bin\Debug\Padrão Strategy.pdb
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\obj\Debug\Padrão Strategy.exe
+C:\Users\Nivaldo\Documents\AAAAAAAAAA- Aula hoje firjan\Padrão Strategy\Padrão Strategy\obj\Debug\Padrão Strategy.pdb
